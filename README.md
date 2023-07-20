@@ -2,12 +2,12 @@
 
 <div align="center">
   
-  ![EgorAndrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorAndrik&show_icons=true)
+  ![EgorAndrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorAndrik&theme=transparent&show_icons=true)
   
 </div>
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EgorAndrik)
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EgorAndrik&theme=transparent&show_icons=true)
   
 </div>

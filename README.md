@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![EgorAndrik's GitHub stats](https://github-readme-stats.vercel.app/api/?username=EgorAndrik&theme=dark&show_icons=true)
+  ![EgorAndrik's GitHub stats](https://github-readme-stats.vercel.app/api/?username=EgorAndrik&include_orgs=true&theme=dark&show_icons=true)
   
 </div>
 

@@ -5,6 +5,11 @@
 <div align="center">
   
   ![EgorAndrik's GitHub stats](https://github-readme-stats.vercel.app/api/?username=EgorAndrik&include_orgs=true&theme=dark&show_icons=true)
+
+</div>
+
+<div align="center">
+
   ![EgorAndrik's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=EgorAndrik&include_orgs=true&theme=dark&show_icons=true)
 
 </div>

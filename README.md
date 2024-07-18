@@ -3,6 +3,14 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EgorAndrik" alt="EgorAndrik" /></a> </p>
 
 <div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/EgorAndrik?theme=dark&font=Graduate">
+        <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/EgorAndrik?theme=unicorn&font=Graduate">
+        <img width="400">
+    </picture>
+</div>
+
+<div align="center">
   
   ![EgorAndrik's GitHub stats](https://github-readme-stats.vercel.app/api/?username=EgorAndrik&include_orgs=true&theme=dark&show_icons=true)
 

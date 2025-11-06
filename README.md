@@ -55,7 +55,7 @@
 - 🎯 **All-Russian Olympiad in Artificial Intelligence 2023** — Participant  
 - 🎓 **National Technology Olympiad — Autonomous Transport Systems 2023–2024** — Participant  
 - 🥈 **Innopolis Open International Olympiad, AI Track** — Prize Winner  
-- 🎯 **National Technology Olympiad — Big Data and Mathematical Modeling 2023–2024** — Participant  
+- 🎯 **National Technology Olympiad — Big Data and Machine Learning 2023–2024** — Participant  
 - 🎯 **National Technology Olympiad — Artificial Intelligence 2023–2024** — Participant  
 - 💡 **All-Russian Open Source Project Competition 2024** — Participant  
 - 🥇 **All-Russian Camp “Art of Code”, Artificial Intelligence Track** — Winner  

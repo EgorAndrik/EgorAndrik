@@ -1,7 +1,5 @@
 <h1 align="center">Egor Andreasyan</h1>
 
----
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=EgorAndrik&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
@@ -49,6 +47,9 @@
 
 ### 🏆 Achievements
 
+<details>
+<summary><b>📜 Click to expand full list</b></summary>
+  
 - 🥇 **Governor’s Cup of the Novosibirsk Region in Artificial Intelligence and Computer Vision 2023** — Winner (Team and Individual)  
 - 🥈 **International Hackathon “Wild Life of Utashuda”** — Prize Winner  
 - 🎯 **Digital Breakthrough Hackathon: AI Season 2023 (Siberian Federal District)** — Participant  
@@ -66,6 +67,8 @@
 - 🎓 **National Technology Olympiad — Neurotechnologies and Cognitive Sciences 2024–2025** — Participant  
 - 🥈 **National Technology Olympiad — Big Data and Machine Learning 2024–2025** — Prize Winner (Individual)  
 - 🥇 **National Technology Olympiad — Artificial Intelligence 2024–2025** — Winner (Individual), 2nd Place (Team)  
+
+</details>
 
 ---
 

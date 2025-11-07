@@ -8,11 +8,11 @@
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=EgorAndrik&include_orgs=true&theme=tokyonight&show_icons=true&count_private=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=EgorAndrik&include_orgs=true&theme=dark&show_icons=true" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EgorAndrik&include_orgs=true&theme=tokyonight&layout=compact" />
 </div>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EgorAndrik&include_orgs=true&theme=tokyonight&layout=compact" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=EgorAndrik&include_orgs=true&theme=dark&show_icons=true" />
 </div>
 
 <div align="center">
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---

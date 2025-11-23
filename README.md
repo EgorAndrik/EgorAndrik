@@ -68,7 +68,7 @@
 - 🎓 **National Technology Olympiad — Neurotechnologies and Cognitive Sciences 2024–2025** — Participant  
 - 🥈 **National Technology Olympiad — Big Data and Machine Learning 2024–2025** — Prize Winner (Individual)  
 - 🥇 **National Technology Olympiad — Artificial Intelligence 2024–2025** — Winner (Individual), 2nd Place (Team)  
-
+- 🥉 **AI Challenge 2025 (International Artificial Intelligence Competition) — 3rd place, Students track, case study "Creating an AI judge to evaluate the performance of an electronic pharmacist"**
 </details>
 
 ---
